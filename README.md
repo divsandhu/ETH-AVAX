@@ -1,6 +1,6 @@
 # Smart Contract for handling exceptions
 
-This repository contains a Solidity smart contract named that demonstrates the use of error handling mechanisms in Solidity, specifically `require`, `revert`, and `assert`.
+This repository contains a Solidity smart contract that demonstrates the use of error handling mechanisms in Solidity, specifically `require`, `revert`, and `assert`.
 
 ## Table of Contents
 
